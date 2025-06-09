@@ -30,8 +30,8 @@ Hi there! I'm **Amit Verma**, a seasoned PHP and Laravel developer with **7+ yea
 
 ### 📊 GitHub Stats
 
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=avcodelord&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcodelord&layout=compact&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-verma-cl&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-verma-cl&layout=compact&theme=radical)
 
 ---
 
